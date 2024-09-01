@@ -1,4 +1,4 @@
-> [!NOTE] Clase 1 Ayudantia
+> [!NOTE]
 > Clase 1 Ayudantia
 
 cosas que se vio en la ayudantia:
